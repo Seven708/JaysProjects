@@ -1,1 +1,1 @@
-# CSC301
+# Projects
